@@ -24,7 +24,7 @@ conda create -n hw3 python=3.10.16
 
 ```bash
 conda activate hw3
-pip install requirements.txt # Make sure you are using cuda 12.6
+pip install -r requirements.txt # Make sure you are using cuda 12.6
 ```
 
 ## Run the code
