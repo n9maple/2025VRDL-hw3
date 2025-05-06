@@ -65,7 +65,7 @@ https://drive.google.com/file/d/1Pxk4rW4FRhF2jMKQQLBNAk2mZWKath88/view?usp=shari
 
 ```bash
 # if you don't specify the saving folder in training
-python prediction.py
+python inference.py
 ```
 or
 
