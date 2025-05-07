@@ -61,7 +61,7 @@ python train.py -h
 ```
 
 3. Run the inference code. If you have run train.py, you may ignore all the arguments and run inference.py. Otherwise, if the model weight path is not given, it will find *'save_model/model_epoch10.pth'*. You may download the weight from the link: 
-https://drive.google.com/file/d/1Pxk4rW4FRhF2jMKQQLBNAk2mZWKath88/view?usp=sharing
+[https://drive.google.com/file/d/1Pxk4rW4FRhF2jMKQQLBNAk2mZWKath88/view?usp=sharing](https://drive.google.com/file/d/1WugfFibCAoLqJKM-5IJbkJM6S4o5bAuS/view?usp=sharing)
 
 ```bash
 # if you don't specify the saving folder in training
